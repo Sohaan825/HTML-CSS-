@@ -1,0 +1,104 @@
+
+/* General page styling */
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 20px;
+}
+
+/* Main heading: ID selector */
+#main-title {
+    color: blue;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Intro paragraph: class selector */
+.intro {
+    color: teal;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* Header and footer */
+header {
+    background-color: lightyellow;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: lightyellow;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    border: 1px solid gray;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Section headings */
+h2 {
+    color: blue;
+}
+
+/* Image styling */
+img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    border: 2px solid gray;
+    margin: 10px 0;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: lightblue;
+    color: black;
+}
+
+/* Contact form styling */
+form {
+    background-color: white;
+    border: 1px solid gray;
+    padding: 15px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    font-size: 16px;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
